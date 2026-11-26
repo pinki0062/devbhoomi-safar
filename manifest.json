@@ -1,1 +1,10 @@
-
+{
+  "name": "Devbhoomi Safar",
+  "short_name": "D-SAFAR",
+  "description": "Uttarakhand Ride, Hotel, Parcel - Sab Ek Jagah",
+  "id": "com.devbhoomisafar.app",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0077B6",
+  "theme_color": "#FF6B00"
+}
